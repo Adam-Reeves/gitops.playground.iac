@@ -1,0 +1,5 @@
+.idea/
+.terraform
+*.out
+.tool-versiontf de
+.DS_Store
